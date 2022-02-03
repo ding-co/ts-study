@@ -4,9 +4,9 @@
 
 > - [x] [ch01 - TS 소개](#)
 
-> - [ ] [ch02 - TS: 3,000미터 상공에서 내려다보기](https://github.com/ding-co/ts-study/blob/main/code/ch02)
+> - [x] [ch02 - TS: 3,000미터 상공에서 내려다보기](https://github.com/ding-co/ts-study/blob/main/code/ch02)
 
-> - [ ] [ch03 - 타입의 모든 것](https://github.com/ding-co/ts-study/blob/main/code/ch03)
+> - [x] [ch03 - 타입의 모든 것](https://github.com/ding-co/ts-study/blob/main/code/ch03)
 
 > - [ ] [ch04 - 함수](https://github.com/ding-co/ts-study/blob/main/code/ch04)
 
